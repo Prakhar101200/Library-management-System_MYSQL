@@ -1,0 +1,4 @@
+LoanID,Title,MemberName,LoanDate,ReturnDate
+1,"Harry Potter and the Philospher's Stone","Alice Johnson",2023-07-01,2023-07-15
+2,"A Game of Thrones","Bob Smith",2023-07-05,NULL
+3,"The Hobbit","Alice Johnson",2023-07-10,NULL

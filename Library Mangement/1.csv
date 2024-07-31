@@ -1,0 +1,2 @@
+LoanID,BookID,MemberID,LoanDate,ReturnDate
+3,3,1,7/10/2023,NULL

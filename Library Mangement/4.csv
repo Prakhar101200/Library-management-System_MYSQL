@@ -1,0 +1,4 @@
+LoanID,BookID,MemberID,LoanDate,ReturnDate
+1,1,1,2023-07-01,2023-07-15
+2,2,2,2023-07-05,NULL
+3,3,1,2023-07-10,NULL
